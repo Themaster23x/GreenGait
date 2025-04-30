@@ -76,6 +76,8 @@ client.key
 stepmint-validator.json (Solana keypair)
 ```
 
+---
+
 ## 📬 Contact
 Robert Panța
 
