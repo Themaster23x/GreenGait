@@ -66,19 +66,18 @@ Use Arduino IDE or PlatformIO to upload `ESP32.ino`. Make sure `certificates.h` 
 ```bash
 cd backend
 cargo run
-
+```
 Ensure the following certificate/key files exist under backend/certs/:
 
+```bash
 ca.crt
-
 client.crt
-
 client.key
-
 stepmint-validator.json (Solana keypair)
+```
 
 ## 📬 Contact
-Robert Panta
+Robert Panța
 MSc Student in Cybersecurity – Technical University of Cluj-Napoca
 📫 **[LinkedIn](https://www.linkedin.com/in/robert-panta/)**
 🌐 **[GitHub](https://github.com/RobCyberLab)**
