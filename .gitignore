@@ -2,3 +2,32 @@
 
 .env
 .vscode/
+
+# 🔧 Arduino/PlatformIO
+*.elf
+*.bin
+*.hex
+.pio/
+.vscode/
+*.ino.save
+
+# 🦀 Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# 🔐 Secrets
+**/certs/*
+!**/certs/README.md
+firmware/certificates.h
+
+# 🧪 System
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+backend/certs/client.key
+backend/certs/client.crt
+backend/certs/stepmint-validator.json
+firmware/certificates.h     # if it contains real TLS credentials
