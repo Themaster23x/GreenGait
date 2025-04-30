@@ -1,0 +1,4 @@
+/node_modules
+/firmware/certificates.h
+.env
+.vscode/
