@@ -1,4 +1,4 @@
 /node_modules
-/firmware/certificates.h
+certificates.h
 .env
 .vscode/
