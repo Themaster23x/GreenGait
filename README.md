@@ -78,6 +78,8 @@ stepmint-validator.json (Solana keypair)
 
 ## 📬 Contact
 Robert Panța
+
 MSc Student in Cybersecurity – Technical University of Cluj-Napoca
+
 📫 **[LinkedIn](https://www.linkedin.com/in/robert-panta/)**
 🌐 **[GitHub](https://github.com/RobCyberLab)**
