@@ -2,7 +2,6 @@
 /target/
 **/*.rs.bk
 Cargo.lock
-**/certs/*
 backend/certs/client.key
 backend/certs/client.crt
 backend/certs/ca.crt
