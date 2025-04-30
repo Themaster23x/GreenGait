@@ -1,4 +1,4 @@
-🍃 GreenGait – Step Into Web3 Rewards 🍃
+# 🍃 GreenGait – Step Into Web3 Rewards 🍃
 
 **GreenGait** is a Web3 rewards app that turns your steps into real value using blockchain technology. With a wearable shoe-mounted device, every step is securely tracked, cryptographically signed, and sent to a backend that logs it on the Solana blockchain. 🚶‍♂️→ 💰
 
